@@ -12,8 +12,7 @@
 ### Experience
 - :school: Donga University, Computer Science(2017.03~)
 - :school: Donga University, Economics(2020.09~)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=youngine" height="165">
-
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngine&layout=compact" height="165">
 ### What I Like
 - :camera: Take pictures
 - :movie_camera: Watch a movie

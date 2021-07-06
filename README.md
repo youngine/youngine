@@ -1,21 +1,11 @@
 ## youngine :whale:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/youngine)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:youngine012@gmail.com)
-
-
-<p align='center'>
-  <a href="https://github.com/youngine/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=youngine&hide=issues&show_icons=true&theme=graywhite"/>
-  </a>
-</p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngine&layout=compact"/>
   </a>
-  <a href="https://solved.ac/youngine012">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=youngine012"/>
-  </a>
+    <a href="https://github.com/youngine/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=youngine&hide=issues&show_icons=true&theme=graywhite"/>
 </p>
 
 <h3 align="center"> 🔎 Tech Stack </h3>

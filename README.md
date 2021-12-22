@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-1498F0?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>

@@ -1,12 +1,5 @@
 ## Hello :whale:
 
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngine&layout=compact"/>
-  </a>
-    <a href="https://github.com/youngine/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=youngine&hide=issues&show_icons=true&theme=graywhite"/>
-</p>
 
 <h3 align="center"> 🔎 Tech Stack </h3>
  
@@ -17,4 +10,10 @@
   <img src="https://img.shields.io/badge/MySQL-1498F0?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
+<p align='center'>
+  
+  </a>
+    <a href="https://github.com/youngine/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=youngine&hide=issues&show_icons=true&theme=graywhite"/>
 </p>
